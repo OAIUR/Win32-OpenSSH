@@ -1,0 +1,12 @@
+BIN: 627535
+Card Brand: MAESTRO
+Card Category: N/A
+Card Type: DEBIT
+Country: N/A
+Latitude: N/A
+Longitude: N/A
+Issuer: N/A
+Bank URL: N/A
+Bank Phone: N/A
+https://play.google.com/store/apps/details?id=com.binchecker.bincheck&hl=en_US
+Thanks for using Bin Check App
