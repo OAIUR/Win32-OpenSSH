@@ -1,6 +1,13 @@
+Got it, here's a simpler version:
 version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
+
+This configuration will:
+ * Check your repository's workflow files every day for any outdated GitHub Actions.
+ * If updates are found, it will create pull requests to suggest the latest versions.
+
+
